@@ -36,7 +36,7 @@ To get started quickly, you can copy the example pattern files to `~/.gf` like t
 ```
 **MY Gf Patterns installation**
 ```bash
- git clone https://github.com/1ndianl33t/Gf-Patterns
+ git clone https://github.com/nullfuzz-pentest/Gf-Patterns.git
 ```
 
 To get started quickly, you can copy the example pattern files to `~/.gf` like this:
